@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Tourism_Website/static/css/main.de5fbf04.chunk.css",
+    "main.js": "/Tourism_Website/static/js/main.e3dcca35.chunk.js",
+    "main.js.map": "/Tourism_Website/static/js/main.e3dcca35.chunk.js.map",
+    "runtime-main.js": "/Tourism_Website/static/js/runtime-main.8f33d027.js",
+    "runtime-main.js.map": "/Tourism_Website/static/js/runtime-main.8f33d027.js.map",
+    "static/js/2.69ceaf75.chunk.js": "/Tourism_Website/static/js/2.69ceaf75.chunk.js",
+    "static/js/2.69ceaf75.chunk.js.map": "/Tourism_Website/static/js/2.69ceaf75.chunk.js.map",
+    "static/js/3.2fe43c78.chunk.js": "/Tourism_Website/static/js/3.2fe43c78.chunk.js",
+    "static/js/3.2fe43c78.chunk.js.map": "/Tourism_Website/static/js/3.2fe43c78.chunk.js.map",
+    "index.html": "/Tourism_Website/index.html",
+    "static/css/main.de5fbf04.chunk.css.map": "/Tourism_Website/static/css/main.de5fbf04.chunk.css.map",
+    "static/js/2.69ceaf75.chunk.js.LICENSE.txt": "/Tourism_Website/static/js/2.69ceaf75.chunk.js.LICENSE.txt",
+    "static/media/Image.e999b10a.png": "/Tourism_Website/static/media/Image.e999b10a.png",
+    "static/media/aloha.cc44f010.PNG": "/Tourism_Website/static/media/aloha.cc44f010.PNG",
+    "static/media/contact.5f967066.jpg": "/Tourism_Website/static/media/contact.5f967066.jpg",
+    "static/media/footer.3d471fe6.PNG": "/Tourism_Website/static/media/footer.3d471fe6.PNG",
+    "static/media/profile.02bb084a.png": "/Tourism_Website/static/media/profile.02bb084a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f33d027.js",
+    "static/js/2.69ceaf75.chunk.js",
+    "static/css/main.de5fbf04.chunk.css",
+    "static/js/main.e3dcca35.chunk.js"
+  ]
+}
